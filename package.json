@@ -1,0 +1,19 @@
+{
+  "name": "flurry",
+  "version": "0.0.1",
+  "description": "Collection of react and flux utils to use with kefir and coffee",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "flux",
+    "reactjs",
+    "fpr",
+    "kefir",
+    "baconjs"
+  ],
+  "dependencies": ["react>=0.13"],
+  "author": "Leiser Fernández Gallo @leiserfg",
+  "license": "Apache 2"
+}
